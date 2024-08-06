@@ -2,7 +2,7 @@ import { TestBed } from '@angular/core/testing';
 import { SharedService } from '../shared-service/shared.service';
 import { CalcService } from './calc.service';
 
-fdescribe('CalcService', () => {
+describe('CalcService', () => {
   let shared: SharedService;
   let calc: CalcService;
 
@@ -22,7 +22,7 @@ fdescribe('CalcService', () => {
     calc = TestBed.inject(CalcService);
   });
 
-  fit('should multiply two numbers', () => {
+  it('should multiply two numbers', () => {
     const result = calc.multiply(3, 5);
     expect(result).toBe(15);
   });
