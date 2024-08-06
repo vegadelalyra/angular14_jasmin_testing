@@ -1,4 +1,6 @@
-![imagen](https://github.com/user-attachments/assets/79fa9515-e72d-41f8-937a-0a58b77118fc)
+![imagen](https://github.com/user-attachments/assets/70da6e7f-dbd0-4600-affb-db60d7b352be)
+
+![imagen](https://github.com/user-attachments/assets/95dcf85d-134a-4257-b407-67905f53524c)
 
 
 # Angular 14 Jasmin Unit Testing
